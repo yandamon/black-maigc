@@ -1,0 +1,22 @@
+.autocompleteFormControl {
+	width: 100%;
+	font-size: 14px;
+
+	.MuiAutocomplete-endAdornment > button {
+		padding: 5px;
+		margin: 0px;
+	}
+
+	.autocompleteLabel {
+		margin: -35px 0 0 15px;
+	}
+}
+
+.postcode-search {
+	.MuiFormControl-root {
+		margin-top: 10px;
+		.MuiFormControl-root {
+			margin-top: 0;
+		}
+	}
+}
